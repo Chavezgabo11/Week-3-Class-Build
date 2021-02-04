@@ -1,4 +1,4 @@
-# WProject Name
+# Project Name
 Week 3 class Build 
 
 #MIT license
